@@ -1,0 +1,7 @@
+Plug 'scrooloose/nerdtree'
+Plug 'jistr/vim-nerdtree-tabs'
+Plug 'vim-airline/vim-airline'
+Plug 'vim-airline/vim-airline-themes'
+" Plug 'kana/vim-operator-user'
+" Plug 'haya14busa/vim-operator-flashy'
+Plug 'osyo-manga/vim-anzu'
